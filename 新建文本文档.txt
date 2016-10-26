@@ -1,0 +1,269 @@
+﻿
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @xushuai121
+
+2
+1
+
+    1
+
+leolau2012/leolau2012.github.com
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Pulse
+Graphs
+leolau2012.github.com/2016/10/01/七天一本高程三/index.html
+b82fa7e 12 days ago
+@leolau2012 leolau2012 Site updated: 2016-10-01 12:27:38
+240 lines (172 sloc) 8.75 KB
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>Hexo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="七天整理《javascript高级程序第三版》
+难得七天假，正好找个时间系统的整理下js知识，不废话，打算再未来七天再读一遍高程三，并把核心内容抽离出来分享。大纲如下：
+第一天​    简介、基本语法、数据类型、变量函数以及作用域
+​    DOM和BOM
+​    历史：js校验减轻服务器和用户压力，布莱登艾克写了js。
+1. ECMAScript
+2. DOM
+3. BOM
+ECMA262">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hexo">
+<meta property="og:url" content="http://yoursite.com/2016/10/01/七天一本高程三/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="七天整理《javascript高级程序第三版》
+难得七天假，正好找个时间系统的整理下js知识，不废话，打算再未来七天再读一遍高程三，并把核心内容抽离出来分享。大纲如下：
+第一天​    简介、基本语法、数据类型、变量函数以及作用域
+​    DOM和BOM
+​    历史：js校验减轻服务器和用户压力，布莱登艾克写了js。
+1. ECMAScript
+2. DOM
+3. BOM
+ECMA262">
+<meta property="og:updated_time" content="2016-10-01T04:27:03.711Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Hexo">
+<meta name="twitter:description" content="七天整理《javascript高级程序第三版》
+难得七天假，正好找个时间系统的整理下js知识，不废话，打算再未来七天再读一遍高程三，并把核心内容抽离出来分享。大纲如下：
+第一天​    简介、基本语法、数据类型、变量函数以及作用域
+​    DOM和BOM
+​    历史：js校验减轻服务器和用户压力，布莱登艾克写了js。
+1. ECMAScript
+2. DOM
+3. BOM
+ECMA262">
+  
+    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+
+</head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Hexo</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-七天一本高程三" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/10/01/七天一本高程三/" class="article-date">
+  <time datetime="2016-10-01T03:07:08.857Z" itemprop="datePublished">2016-10-01</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h1 id="七天整理《javascript高级程序第三版》"><a href="#七天整理《javascript高级程序第三版》" class="headerlink" title="七天整理《javascript高级程序第三版》"></a>七天整理《javascript高级程序第三版》</h1><blockquote>
+<p>难得七天假，正好找个时间系统的整理下js知识，不废话，打算再未来七天再读一遍高程三，并把核心内容抽离出来分享。大纲如下：</p>
+</blockquote>
+<h3 id="第一天"><a href="#第一天" class="headerlink" title="第一天"></a>第一天</h3><p>​    简介、基本语法、数据类型、变量函数以及作用域</p>
+<p>​    DOM和BOM</p>
+<p>​    历史：js校验减轻服务器和用户压力，布莱登艾克写了js。</p>
+<pre><code>1. ECMAScript
+2. DOM
+3. BOM
+</code></pre><p>ECMA262 -&gt;我们用的是第五版，最新是ES6制定中是ES7.</p>
+<p>DOM分为三级</p>
+<p>​    1.DOM1主要是规定标签映射XML结构（不存在DOM0）</p>
+<p>​    2.DOM2规定了事件和css接口</p>
+<p>​    3.DOM3规定了加载和保存文档方法（个人觉得不全高三说的不全如DOMMouseScroll 以及其它DOM事件）</p>
+<h4 id="关于script标签"><a href="#关于script标签" class="headerlink" title="关于script标签"></a>关于script标签</h4><p>​    1.放在body后面执行</p>
+<p>​    2.使用defer跟放在后面执行一样，async没用，因为不能保证加载顺序所以基本上是废的。</p>
+<p>​    3.嵌入和外链最大的区别js文件可缓存。</p>
+<h4 id="js基本语法"><a href="#js基本语法" class="headerlink" title="js基本语法"></a>js基本语法</h4><p>​    1.区分大小写</p>
+<p>​    2.<strong>标识符首位不能是数字</strong></p>
+<p>​    3.变量可以var a =12,b=5,=5;这样定义</p>
+<p>​    </p>
+<p>js推荐语法风格</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">if</span>(test)&#123;<span class="comment">//最好不要单独起一行</span></div><div class="line">  </div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h4 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h4><p>​    1.基本数据类型undefined boolean string number null</p>
+<p>​    2.复合类型 Oject（注意函数数据对象）</p>
+<p>语句控制</p>
+<p>​    1.判断</p>
+<p>​    2.循环</p>
+<h4 id="函数"><a href="#函数" class="headerlink" title="函数"></a><strong>函数</strong></h4><p>​    重点有以下几件事：</p>
+<p>​    1.参数arguments</p>
+<p>​    2.返回值return</p>
+<p>​    3.没有重载，会覆盖</p>
+<p>.</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2016/10/01/七天一本高程三/" data-id="citqp67v600028sv4iygp9onq" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/2016/10/01/markdown语法简介/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">语法简介</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">October 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">September 2016</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2016/10/01/七天一本高程三/">(no title)</a>
+          </li>
+        
+          <li>
+            <a href="/2016/10/01/markdown语法简介/">语法简介</a>
+          </li>
+        
+          <li>
+            <a href="/2016/09/29/hello-world/">Hello World</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2016 John Doe<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+  </div>
+</body>
+</html>
+
+    Contact GitHub API Training Shop Blog About 
+
+    © 2016 GitHub, Inc. Terms Privacy Security Status Help 
+
